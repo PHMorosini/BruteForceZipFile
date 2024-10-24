@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackerSenhaWinRar", "CrackerSenhaWinRar\CrackerSenhaWinRar.csproj", "{2DD6F8C1-0927-48FF-A531-B1D7C47EE7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD6F8C1-0927-48FF-A531-B1D7C47EE7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD6F8C1-0927-48FF-A531-B1D7C47EE7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD6F8C1-0927-48FF-A531-B1D7C47EE7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD6F8C1-0927-48FF-A531-B1D7C47EE7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA70C64-975C-43F9-94A9-617E40E65600}
+	EndGlobalSection
+EndGlobal
